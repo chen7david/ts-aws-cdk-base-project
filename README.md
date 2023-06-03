@@ -1,0 +1,1 @@
+# ts-aws-cdk-base-project
